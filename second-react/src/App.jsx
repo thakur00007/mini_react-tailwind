@@ -48,7 +48,7 @@ function App() {
               type="text"
               readOnly
               value={password}
-              className='rounded-s w-5/6 pointer-finger bg-gray-100 text-gray-900 focus-visible:outline-0 ring-inset focus-visible:ring-2 ring-indigo-600 font-semibold w-80 px-3'
+              className='rounded-s w-5/6 pointer-finger bg-gray-100 text-gray-900 focus-visible:outline-0 ring-inset focus-visible:ring-2 ring-indigo-600 font-semibold px-3'
               ref={inputPass}
             />
             <button
